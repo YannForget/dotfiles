@@ -1,0 +1,11 @@
+#!/bin/sh
+
+cp ~/.config/Code/User/settings.json vscode/
+code --list-extensions > vscode/extensions.txt
+
+cp ~/.config/nvim/init.vim neovim/
+
+cp ~/.config/fish/config.fish fish/
+cp -r ~/.config/fish/functions fish/
+
+cp ~/.jupyter/custom/custom.css jupyter/

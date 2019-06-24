@@ -1,0 +1,13 @@
+Equinusocio.vsc-material-theme
+ginfuru.ginfuru-better-solarized-dark-theme
+lkytal.FlatUI
+lunaryorn.fish-ide
+yannforget.markdowpreview-more
+ms-python.python
+ms-vscode.vscode-typescript-tslint-plugin
+notZaki.pandocciter
+phr0s.bib
+plus5keen.word-counter
+redhat.vscode-yaml
+skyapps.fish-vscode
+stkb.rewrap

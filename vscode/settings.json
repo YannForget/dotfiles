@@ -1,0 +1,11 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'Inconsolata'",
+    "editor.accessibilitySupport": "off",
+    "editor.fontLigatures": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "FlatUI Immersed",
+    "explorer.confirmDelete": false
+}
